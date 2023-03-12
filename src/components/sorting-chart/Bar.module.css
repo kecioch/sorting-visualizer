@@ -1,0 +1,24 @@
+.bar {
+  width: 3vw;
+  background-color: var(--bars);
+}
+
+.unselected {
+  background-color: var(--bars);
+}
+
+.compared {
+  background-color: var(--bars-compared);
+}
+
+.sorted {
+  background-color: var(--bars-sorted);
+}
+
+.swap {
+  background-color: var(--bars-swap);
+}
+
+.pivot {
+  background-color: var(--bars-pivot);
+}

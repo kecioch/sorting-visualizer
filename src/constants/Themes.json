@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "name": "Light",
+      "styles": {
+        "--background": "#B9D7EA",
+        "--navbar": "#769FCD",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#F7FBFC",
+        "--bars-compared": "#D6E6F2",
+        "--bars-swap": "#EDDBC7",
+        "--bars-sorted": "#DFFFD8",
+        "--bars-pivot": "#FF0303",
+
+        "--accent1": "#769FCD",
+        "--accent2": "#B9D7EA",
+        "--accent3": "#DFFFD8",
+        "--accent4": "#F7FBFC"
+      }
+    },
+    {
+      "name": "Dark",
+      "styles": {
+        "--background": "#393E46",
+        "--navbar": "#222831",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#6B728E",
+        "--bars-compared": "#BBBBBB",
+        "--bars-swap": "#F05454",
+        "--bars-sorted": "#222831",
+        "--bars-pivot": "#FF0303",
+
+        "--accent1": "#222831",
+        "--accent2": "#393E46",
+        "--accent3": "#BBBBBB",
+        "--accent4": "#F05454"
+      }
+    },
+    {
+      "name": "Night",
+      "styles": {
+        "--background": "#352F44",
+        "--navbar": "#2A2438",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#DBD8E3",
+        "--bars-compared": "#4D4C7D",
+        "--bars-swap": "#150050",
+        "--bars-sorted": "#03001C",
+        "--bars-pivot": "#FF0303",
+
+        "--accent1": "#03001C",
+        "--accent2": "#2A2438",
+        "--accent3": "#352F44",
+        "--accent4": "#4D4C7D"
+      }
+    },
+    {
+      "name": "Neon",
+      "styles": {
+        "--background": "#153B44",
+        "--navbar": "#071C21",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#C6DE41",
+        "--bars-compared": "#4ECCA3",
+        "--bars-swap": "#E14594",
+        "--bars-sorted": "#2D6E7E",
+        "--bars-pivot": "#FF0303",
+        
+        "--accent1": "#153B44",
+        "--accent2": "#4ECCA3",
+        "--accent3": "#E14594",
+        "--accent4": "#C6DE41"
+      }
+    },
+    {
+      "name": "Navy",
+      "styles": {
+        "--background": "#0F3460",
+        "--navbar": "#16213E",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#E94560",
+        "--bars-compared": "#DFF6FF",
+        "--bars-swap": "#256D85",
+        "--bars-sorted": "#0A2647",
+        "--bars-pivot": "#F7C04A",
+
+        "--accent1": "#16213E",
+        "--accent2": "#0F3460",
+        "--accent3": "#0A2647",
+        "--accent4": "#E94560"
+      }
+    },
+    {
+      "name": "Forrest",
+      "styles": {
+        "--background": "#61876E",
+        "--navbar": "#3C6255",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#A6BB8D",
+        "--bars-compared": "#EAE7B1",
+        "--bars-swap": "#F7F1E5",
+        "--bars-sorted": "#4C4B16",
+        "--bars-pivot": "#FF0303",
+
+        "--accent1": "#3C6255",
+        "--accent2": "#61876E",
+        "--accent3": "#EAE7B1",
+        "--accent4": "#A6BB8D"
+      }
+    },
+    {
+      "name": "Candy",
+      "styles": {
+        "--background": "#FF78F0",
+        "--navbar": "#A31ACB",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#39B5E0",
+        "--bars-compared": "#FBF1D3",
+        "--bars-swap": "#D61355",
+        "--bars-sorted": "#F5EA5A",
+        "--bars-pivot": "#9C2C77",
+
+        "--accent1": "#A31ACB",
+        "--accent2": "#FF78F0",
+        "--accent3": "#FBF1D3",
+        "--accent4": "#39B5E0"
+      }
+    },
+    {
+      "name": "Vintage",
+      "styles": {
+        "--background": "#E1D7C6",
+        "--navbar": "#579BB1",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#579BB1",
+        "--bars-compared": "#F7F7F7",
+        "--bars-swap": "#FF0303",
+        "--bars-sorted": "#d08c60",
+        "--bars-pivot": "#4D455D",
+
+        "--accent1": "#579BB1",
+        "--accent2": "#E1D7C6",
+        "--accent3": "#ECE8DD",
+        "--accent4": "#F8F4EA"
+      }
+    },
+    {
+      "name": "Coffee",
+      "styles": {
+        "--background": "#EDDBC7",
+        "--navbar": "#A7727D",
+        "--text-primary": "white",
+        "--text-secondary": "black",
+        "--bars": "#FBF8F1",
+        "--bars-compared": "#CEAB93",
+        "--bars-swap": "#E9A178",
+        "--bars-sorted": "#AD8B73",
+        "--bars-pivot": "#FF0303",
+
+        "--accent1": "#A7727D",
+        "--accent2": "#CEAB93",
+        "--accent3": "#EDDBC7",
+        "--accent4": "#AD8B73"
+      }
+    }
+  ]
+}

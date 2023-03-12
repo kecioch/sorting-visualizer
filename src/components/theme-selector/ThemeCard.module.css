@@ -1,0 +1,25 @@
+.colors {
+  background: linear-gradient(
+    to bottom left,
+    var(--accent1) 0% 25%,
+    var(--accent2) 25% 50%,
+    var(--accent3) 50% 75%,
+    var(--accent4) 75% 100%
+  );
+}
+
+.header {
+  text-align: center;
+  color: black;
+}
+
+.card {
+  height: 13em;
+  width: 15em;
+}
+
+@media (max-width: 992px) {
+  .card {
+    width: 100%;
+  }
+}
